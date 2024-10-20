@@ -42,7 +42,7 @@
 
 <script setup>
 import { Icon } from "@vicons/utils";
-// 引入所需图标
+// 引入所需图标，包括新加入的 ShieldAlt
 import { 
   Link, 
   Blog, 
@@ -54,7 +54,8 @@ import {
   LaptopCode, 
   Ghost, 
   InfoCircle, 
-  Google 
+  Google, 
+  ShieldAlt 
 } from "@vicons/fa"; 
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -85,6 +86,7 @@ const siteIcon = {
   Ghost,
   InfoCircle,
   Google,
+  ShieldAlt,
 };
 
 // 链接跳转逻辑
