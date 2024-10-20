@@ -42,8 +42,20 @@
 
 <script setup>
 import { Icon } from "@vicons/utils";
-// 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
+// 引入所需图标
+import { 
+  Link, 
+  Blog, 
+  CompactDisc, 
+  Cloud, 
+  Compass, 
+  Book, 
+  Fire, 
+  LaptopCode, 
+  Ghost, 
+  InfoCircle, 
+  Google 
+} from "@vicons/fa"; 
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -61,7 +73,7 @@ const siteLinksList = computed(() => {
   return result;
 });
 
-// 网站链接图标
+// 网站链接图标映射
 const siteIcon = {
   Blog,
   Cloud,
@@ -70,9 +82,12 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Ghost,
+  InfoCircle,
+  Google,
 };
 
-// 链接跳转
+// 链接跳转逻辑
 const jumpLink = (data) => {
   if (data.name === "音乐" && store.musicClick) {
     if (typeof $openList === "function") $openList();
