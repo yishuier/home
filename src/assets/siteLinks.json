@@ -30,6 +30,11 @@
     "link": "https://trick.of.yishui.eu.org/"
   },
   {
+    "icon": "ShieldAlt",
+    "name": "防骗指南",
+    "link": "https://safety.yszs.eu.org/"
+  },
+  {
     "icon": "InfoCircle",
     "name": "关于网站",
     "link": "https://about.yishui.eu.org/"
