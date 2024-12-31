@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客（开发中）",
-    "link": "https://blog.yishui.eu.org/"
+    "link": "https://blog.iicy.cc/"
   },
   {
     "icon": "Cloud",
@@ -22,7 +22,7 @@
   {
     "icon": "Book",
     "name": "导航页（开发中）",
-    "link": "https://web.yishui.eu.org/"
+    "link": "https://web.iicy.cc/"
   },
   {
     "icon": "Ghost",
@@ -36,7 +36,7 @@
   },
   {
     "icon": "InfoCircle",
-    "name": "关于网站",
-    "link": "https://about.yishui.eu.org/"
+    "name": "关于我",
+    "link": "https://aboutme.iicy.cc/"
   }
 ]
