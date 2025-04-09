@@ -55,6 +55,11 @@
     "link": "shop.luoluo.uk"
   },
   {
+    "icon": "Book",
+    "name": "好网站推荐建议",
+    "link": "jianyi.luoluo.uk"
+  },
+  {
     "icon": "InfoCircle",
     "name": "关于洛洛",
     "link": "https://aboutluo.luoluo.uk"
