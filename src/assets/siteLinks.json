@@ -15,6 +15,16 @@
     "link": "https://xhj.luoluo.uk"
   },
   {
+    "icon": "Google",
+    "name": "谷歌浏览器下载",
+    "link": "https://github.com/Bush2021/chrome_installer/releases"
+  },
+  {
+    "icon": "Book",
+    "name": "订阅链接转换",
+    "link": "https://nexconvert.com/"
+  },
+  {
     "icon": "InfoCircle",
     "name": "关于洛洛",
     "link": "https://aboutluo.luoluo.uk"
