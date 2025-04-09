@@ -1,7 +1,7 @@
 [
   {
     "icon": "Cloud",
-    "name": "免费备用机场防失联",
+    "name": "免费防失联机场",
     "link": "https://freevpn.iicy.cc"
   },
   {
@@ -11,32 +11,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "小火箭共享",
+    "name": "小火箭共享ID",
     "link": "https://xhj.luoluo.uk"
   },
   {
-    "icon": "Cloud",
-    "name": "谷歌搜索",
-    "link": "https://google.com/"
-  },
-  {
-    "icon": "Book",
-    "name": "导航页（开发中）",
-    "link": "https://web.iicy.cc/"
-  },
-  {
-    "icon": "Ghost",
-    "name": "IP小游戏",
-    "link": "https://trick.of.yishui.eu.org/"
-  },
-  {
-    "icon": "ShieldAlt",
-    "name": "防骗指南",
-    "link": "https://safety.yszs.eu.org/"
-  },
-  {
     "icon": "InfoCircle",
-    "name": "关于我",
-    "link": "https://about-me.luoluo.uk"
+    "name": "关于洛洛",
+    "link": "https://aboutluo.luoluo.uk"
   }
 ]
