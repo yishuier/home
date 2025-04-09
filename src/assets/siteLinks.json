@@ -1,6 +1,6 @@
 [
   {
-    "icon": "Cloud",
+    "icon": "Book",
     "name": "免费防失联机场",
     "link": "https://freevpn.iicy.cc"
   },
@@ -28,6 +28,26 @@
     "icon": "Book",
     "name": "订阅链接转换",
     "link": "https://nexconvert.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "Clash下载",
+    "link": "https://dow.hongxing.one/app/cmfa-2.11.2-meta-arm64-v8a-release.apk"
+  },
+  {
+    "icon": "Book",
+    "name": "Surfbord下载",
+    "link": "https://github.com/getsurfboard/surfboard/releases"
+  },
+  {
+    "icon": "Book",
+    "name": "代理使用教程",
+    "link": "dlsyjc.luoluo.uk"
+  },
+  {
+    "icon": "Book",
+    "name": "卖点东西嘻嘻",
+    "link": "shop.luoluo.uk"
   },
   {
     "icon": "InfoCircle",
