@@ -54,6 +54,8 @@ import {
   LaptopCode, 
   Ghost, 
   InfoCircle, 
+  QqOutlined,
+  ContentSettings20Filled,
   AccessTimeFilledTwotone,
   AlignCenterHorizontal24Regular,
   ArrowDownCircleSharp,
