@@ -54,6 +54,11 @@ import {
   LaptopCode, 
   Ghost, 
   InfoCircle, 
+  AccessTimeFilledTwotone,
+  AlignCenterHorizontal24Regular,
+  ArrowDownCircleSharp,
+  PaypalOutlined,
+  MovieSharp,
   Google, 
   ShieldAlt 
 } from "@vicons/fa"; 
