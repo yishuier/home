@@ -1,31 +1,26 @@
 [
   {
-    "icon": "MovieSharp",
+    "icon": "Video",
     "name": "一水影视",
     "link": "https://video.iicy.cc/"
   },
   {
-    "icon": "AlignCenterHorizontal24Regular",
-    "name": "量化交易系统",
-    "link": "https://ai.zhixing.icu/"
+    "icon": "MailBulk",
+    "name": "一水邮箱",
+    "link": "https://email.iicy.cc"
   },
   {
-    "icon": "ArrowDownCircleSharp",
+    "icon": "Music",
     "name": "音乐免费下载",
     "link": "https://2t58.com/"
   },
   {
-    "icon": "QqOutlined",
-    "name": "QQ代挂",
-    "link": "http://sky.sqywl.cc/user/"
-  },
-  {
-    "icon": "Goolgle",
+    "icon": "Bitcoin",
     "name": "大门交易所",
     "link": "https://gt.luoluo.uk"
   },
   {
-    "icon": "ContentSettings20Filled",
+    "icon": "Toolbox",
     "name": "OneTool",
     "link": "https://6661.pay67.cn/index/console/index.html"
   },
@@ -35,12 +30,12 @@
     "link": "https://trick.of.yishui.eu.org/"
   },
   {
-    "icon": "AccessTimeFilledTwotone",
+    "icon": "SimCard",
     "name": "GiffGaff",
     "link": "https://giffgafftime.iicy.cc/"
   },
   {
-    "icon": "PaypalOutlined",
+    "icon": "ApplePay",
     "name": "赞赏链接",
     "link": "https://reward.iicy.cc"
   },
