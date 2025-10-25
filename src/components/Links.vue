@@ -62,6 +62,13 @@ import {
   PaypalOutlined,
   MovieSharp,
   Google, 
+  Video,
+  Music,
+  ApplePay,
+  SimCard,
+  Bitcoin,
+  MailBulk,
+  Toolbox,
   ShieldAlt 
 } from "@vicons/fa"; 
 import { mainStore } from "@/store";
@@ -94,6 +101,13 @@ const siteIcon = {
   InfoCircle,
   Google,
   ShieldAlt,
+  Music,
+  Bitcoin,
+  Toolbox,
+  ApplePay,
+  SimCard,
+  MailBulk,
+  Video
 };
 
 // 链接跳转逻辑
