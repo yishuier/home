@@ -69,6 +69,7 @@ import {
   Bitcoin,
   MailBulk,
   Toolbox,
+  Lock,
   ShieldAlt 
 } from "@vicons/fa"; 
 import { mainStore } from "@/store";
