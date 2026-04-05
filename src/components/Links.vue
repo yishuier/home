@@ -62,6 +62,7 @@ import {
   PaypalOutlined,
   MovieSharp,
   Google, 
+  Calendar,
   Video,
   Music,
   ApplePay,
@@ -107,6 +108,7 @@ const siteIcon = {
   Toolbox,
   ApplePay,
   SimCard,
+  Calendar,
   MailBulk,
   Video
 };
